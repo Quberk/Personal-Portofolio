@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Ignore build and distribution directories
+build/
+dist/
+
+# Ignore my Images and Videos Folder
+Frontend/personal-portofolio/public/Background/
+Frontend/personal-portofolio/public/My Profile/
+Frontend/personal-portofolio/public/Projects Image/
+Frontend/personal-portofolio/public/Projects Video/
+Frontend/personal-portofolio/public/Resume/
+Frontend/personal-portofolio/public/Skills Logo/
